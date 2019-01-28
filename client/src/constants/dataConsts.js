@@ -1,0 +1,11 @@
+const DATA = {
+    ADD_PLAYER: 'ADD_PLAYER',
+    GET_PLAYER: 'GET_PLAYER',
+    GET_ROOM: 'GET_ROOM',
+    ADD_ROOM: 'ADD_ROOM',
+    REMOVE_ROOM: 'REMOVE_ROOM',
+    JOIN_ROOM: 'JOIN_ROOM',
+    GET_ROOMS: 'GET_ROOMS',
+};
+
+export default DATA;
